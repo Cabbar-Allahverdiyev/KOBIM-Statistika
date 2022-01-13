@@ -14,6 +14,6 @@ namespace Entities.Concrete
         public string LinkedIn { get; set; }
         public string Twitter { get; set; }
         public string Youtube { get; set; }
-       
+
     }
 }
